@@ -9,7 +9,10 @@ boto3
 yaml
 system
 
-Please fill the files below for access to aws s3 account: 
+Please fill the files below under .aws folder for access to aws s3 account: 
+
 credentials ---> for aws key and ID
+
 bucket      ---> for bucket name
+
 config      ---> for aws gateway configuration
