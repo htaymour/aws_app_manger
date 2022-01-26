@@ -20,5 +20,7 @@ bucket      ---> for bucket name
 
 config      ---> for aws gateway configuration
 
+For more information about my profile and portfolio please follow https://bit.ly/3r06iTT
+For Prices and ready-made gadgets please follow the link below with secure project management platform Upwork:
+https://www.upwork.com/workwith/haythamtaymour
 
-For more information about my profile and portfolio please follow the link : https://www.upwork.com/freelancers/~01df45c3c3bea1ab41 For Prices and ready-made gadgets please follow the link below with secure project management platform Upwork: https://www.upwork.com/workwith/haythamtaymour
